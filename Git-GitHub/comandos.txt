@@ -1,0 +1,12 @@
+git clone link -> Clona o repositório do GitHub para sua máquina.
+
+git init -> Cria um novo repositório do Git em sua máquina.
+
+git status -> Mostra o status dos arquivos.
+
+git add -> Adiciona arquivos que faltam.
+
+git commit -m "mensagem commit" -> Realiza um commit dos arquivos selecionados.
+
+git push origin main -> Realiza um push para o GitHub.
+
