@@ -1,2 +1,4 @@
-# Projeto_github
-Projeto de repositório com Git/GitHub
+# Projeto Git/GitHub
+
+Projeto de repositório com comandos básicos Git/GitHub
+Introdução Git/GitHub
