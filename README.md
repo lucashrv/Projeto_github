@@ -1,4 +1,3 @@
 # Projeto Git/GitHub
 
-##Projeto de repositório com comandos básicos Git/GitHub
-##Introdução Git/GitHub
+##Projeto de introdução de repositório com comandos básicos Git/GitHub
