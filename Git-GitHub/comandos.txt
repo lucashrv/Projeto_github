@@ -10,3 +10,4 @@ git commit -m "mensagem commit" -> Realiza um commit dos arquivos selecionados.
 
 git push origin main -> Realiza um push para o GitHub.
 
+git remote add origin link-> Seleciona um repositório origem
