@@ -1,4 +1,8 @@
-git clone link -> Clona o repositório do GitHub para sua máquina.
+# Link
+
+git remote add origin link-> Seleciona um repositório origem
+
+# Git basic
 
 git init -> Cria um novo repositório do Git em sua máquina.
 
@@ -8,6 +12,22 @@ git add -> Adiciona arquivos que faltam.
 
 git commit -m "mensagem commit" -> Realiza um commit dos arquivos selecionados.
 
-git push origin main -> Realiza um push para o GitHub.
+git push -u origin main -> Realiza um push para o GitHub.
 
-git remote add origin link-> Seleciona um repositório origem
+# Clone nad Pull
+
+git clone link -> Clona o repositório do GitHub para sua máquina.
+
+git pull -> Atualiza um repositório clonado na máquina para as alterações que foram feitas no github
+
+# Branch
+
+git branch -m nomeBranch -> cria uma nova branch
+
+git checkout -b "nomeBranch" -> cria uma nova branch e entra dentro dela
+
+git checkout nomeBranch -> navega entre as branchs
+
+# Merge
+
+git merge nomeBranch -> junta a brach selecionada com a atual (dar push após)
